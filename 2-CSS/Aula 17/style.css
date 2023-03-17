@@ -1,0 +1,64 @@
+body{
+    background: lightblue;
+    font-family: 'Noto Sans JP', sans-serif;
+    /* background-image: url(Back2.jpg); */
+    background-repeat: no-repeat;
+    /* background-position: 100% 40%; */
+    /* background-position: center center; */
+    background-size: cover;
+    color:rgb(9, 13, 32);
+}
+
+
+
+h1{
+    font-family: 'Tilt Neon', cursive;
+    color:rgb(16, 23, 59);
+    margin-bottom: 0;
+    letter-spacing: 0px;
+    font-size: 35px;
+
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(82, 79, 126);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+.foto{
+    /* border-top-style: dotted;
+    border-bottom-style: solid; */
+    /* border-style: dotted solid; */
+    /* margin: 0 auto; */
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 50% 10% 30% 30%;
+    width: 300px;
+    /* margin-top: 30px;
+    margin-bottom: 80px;
+    margin-left: 40%; */
+    margin: 30px 10px 10px 20px;
+    
+    box-shadow: 10px 10px 10px rgb(89, 84, 117)
+
+    /* padding: 5px; */
+}
+.container{
+    width: 1380px;
+    margin: auto;
+}
+.profile{
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+.social-icons{
+    width: 20px;
+}
+.social-links{
+    text-decoration: none;
+}
+.novaregra{
+    margin: 0px 20px 0px 20px;
+
+}

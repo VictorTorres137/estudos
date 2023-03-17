@@ -1,0 +1,28 @@
+body{
+    background: lightblue;
+    background-image: url(Back2.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 40%; */
+    /* background-position: center center; */
+    background-size: cover;
+}
+
+p{
+    color:rgb(9, 13, 32)
+}
+
+h1{
+    color:rgb(16, 23, 59)
+}
+.foto{
+    /* border-top-style: dotted;
+    border-bottom-style: solid; */
+    /* border-style: dotted solid; */
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 40% 10% 30% 30%;
+    width: 300px;
+    /* margin-top: 30px;
+    margin-bottom: 80px;
+    margin-left: 40%; */
+    margin: 30px 10px 80px 40%
+}
