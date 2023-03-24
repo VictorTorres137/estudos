@@ -1,0 +1,45 @@
+a{
+    color: aqua;
+}
+a:hover{
+    color: blueviolet;
+    font-weight: bold;
+
+}
+
+a:hover + .caixa{
+    display:block;
+}
+
+.caixa{
+    display: none;
+    width: 150px;
+    height: 150px;
+    background: gray;
+}
+
+.caixa:hover{
+    width: 100px;
+    height: 10px;
+    background: blue;
+}
+
+a:visited{
+    color: brown;
+}
+a:active{
+    color:pink;
+}
+
+ul li:first-child{
+    color: red;
+}
+
+ul li:last-child{
+    color: blue;
+}
+
+.Exp p:nth-child(3){
+    color: blue;
+
+}

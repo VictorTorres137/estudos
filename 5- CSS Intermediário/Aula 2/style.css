@@ -1,0 +1,21 @@
+h1{
+    text-shadow: 3px 3px 3px black;
+}
+
+p{
+    font-size: 30px;
+    color: green;
+    /* text-align: justify; */
+    font-weight: bold;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    text-indent: 50px;
+    word-spacing: 30px;
+    line-height: 50px;
+}
+
+a{
+    text-decoration: none;
+    letter-spacing: 10px;
+    
+}
