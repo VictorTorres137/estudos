@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+:root{
+    --colorPrimary:rgb(60, 17, 139);
+}
+
+h1{
+    color: var(--colorPrimary);
+    /* color: aqua; */
+}
+
+p{
+    color: var(--colorPrimary);
+}

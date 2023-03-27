@@ -1,0 +1,26 @@
+@import "cores.css";
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+
+
+h1{
+    color: var(--colorPrimary);
+    /* color: aqua; */
+}
+
+p{
+    color: var(--colorPrimary);
+}
+
+img{
+    height: 400px;
+    /* filter: grayscale(70%); */
+    filter:contrast(100%);
+    filter:blur(1px);
+}
